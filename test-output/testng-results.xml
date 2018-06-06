@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29817" started-at="2018-06-06T07:30:04Z" finished-at="2018-06-06T07:30:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29817" started-at="2018-06-06T07:30:04Z" finished-at="2018-06-06T07:30:34Z">
+      <class name="com.SmokeTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.SmokeTest@6d7b4f4c]" name="launchBrowser" is-config="true" duration-ms="12767" started-at="2018-06-06T03:30:04Z" finished-at="2018-06-06T03:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.SmokeTest@6d7b4f4c]" name="beforeClass" is-config="true" duration-ms="7802" started-at="2018-06-06T03:30:17Z" finished-at="2018-06-06T03:30:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="cartTest()[pri:0, instance:com.SmokeTest@6d7b4f4c]" name="cartTest" duration-ms="8085" started-at="2018-06-06T03:30:25Z" finished-at="2018-06-06T03:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SmokeTest@6d7b4f4c]" name="closeBrowser" is-config="true" duration-ms="1069" started-at="2018-06-06T03:30:33Z" finished-at="2018-06-06T03:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
